@@ -21,7 +21,7 @@ Here're some of the project's best features:
 <p>1. Clone the repository to your local machine.</p>
 
 ```
-git clone https://github.com/sandeep-233/book-store
+git clone https://github.com/ksvarani/book-store
 ```
 
 <p>2. Navigate to the project directory</p>
