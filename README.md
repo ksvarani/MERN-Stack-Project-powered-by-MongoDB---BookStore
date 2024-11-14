@@ -1,6 +1,6 @@
 <h1 align="center" id="title">BookStore</h1>
 
-<p align="center"><img src="https://socialify.git.ci/ksvarani204/book-store/image?description=1&amp;language=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/ksvarani/book-store/image?description=1&amp;language=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
 <h2>Project Screenshots:</h2>
 
