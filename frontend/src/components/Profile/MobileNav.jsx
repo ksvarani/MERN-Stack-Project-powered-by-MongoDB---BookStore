@@ -35,7 +35,7 @@ const MobileNav = () => {
         </div>
         }
         {role === "ADMIN" && 
-            <div className='w-full flex items-center justify-between mt-4'>
+            <div className='w-full flex items-center justify-between mt-4 lg:hidden'>
             <Link
                 to="/profile"
                 className='text-white font-mono w-full px-4 py-2 mt-4 text-center hover:bg-zinc-900 rounded transition-all duration-300'
