@@ -77,5 +77,5 @@ Technologies used in the project:
 *   ExpressJs
 *   ReactJs
 *   NodeJs
-*   Firebase
 *   TailwindCSS
+*   Vite
