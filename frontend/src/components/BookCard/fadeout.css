@@ -1,0 +1,5 @@
+.fade-out {
+    opacity: 0;
+    transform: translateY(-10px); /* Optional: add a slight upward movement */
+    transition: opacity 0.3s ease, transform 0.3s ease; /* Match this duration with the timeout in your component */
+  }

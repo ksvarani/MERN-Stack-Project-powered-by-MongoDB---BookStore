@@ -1,0 +1,42 @@
+.signup-div, .signin-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 25px; /* Reduced padding */
+  box-shadow: rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  background-color: #000000;
+  border-color: #ffffff;
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 30px;
+  font-size: 16px;
+  cursor: pointer;
+  font-weight: 700;
+  color: #ffffff;
+  font-family: "Times New Roman", Times, serif;
+  transition:
+      transform 400ms cubic-bezier(0.68, -0.55, 0.27, 2.5),
+      border-color 400ms ease-in-out,
+      background-color 400ms ease-in-out;
+  word-spacing: 10px; /* Adjusted word spacing */
+  margin: 0 3px; /* Added margin for spacing between buttons */
+}
+
+.signup-div:hover, .signin-div:hover {
+  background-color: #b5b4b4;
+  color: #000000;
+  transform: scale(105%);
+  animation: movingBorders 5s infinite;
+}
+
+@keyframes movingBorders {
+  0% {
+      border-color: #ffffff;
+  }
+  30% {
+      border-color: #000000c0;
+  }
+  70% {
+      border-color: #000000c0;
+  }
+}
